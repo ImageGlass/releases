@@ -2,32 +2,32 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.0.6.1008",
-      "title": "ImageGlass 9.0 RC",
-      "description": "Introduces the new Quick Setup dialog, adds more UI for app settings and fixes bugs including WebP vulnerability (CVE-2023-4863)",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-rc-87",
-      "publishedDate": "2023/10/07 20:12:45"
+      "version": "9.0.7.1125",
+      "title": "Introducing the new ImageGlass, version 9",
+      "description": "ImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n\r\n🟠 Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
+      "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
+      "publishedDate": "2023/11/24 21:30:45"
     },
     "kobe": {
-      "version": "8.10.9.27",
-      "title": "ImageGlass Kobe 8.10",
-      "description": "ImageGlass 8.10 is an important update to fix critical WEBP vulnerability (CVE-2023-4863).",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-10-86",
-      "publishedDate": "2023/09/26 17:45:05"
+      "version": "9.0.7.1125",
+      "title": "Introducing the new ImageGlass, version 9",
+      "description": "ImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n\r\n🟠 Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
+      "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
+      "publishedDate": "2023/11/24 21:30:45"
     },
     "moon": {
-      "version": "9.0.6.1008",
-      "title": "ImageGlass 9.0 RC",
-      "description": "Introduces the new Quick Setup dialog, adds more UI for app settings and fixes bugs including WebP vulnerability (CVE-2023-4863)",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-moon-9-0-rc-87",
-      "publishedDate": "2023/10/07 20:12:45"
+      "version": "9.0.7.1125",
+      "title": "Introducing the new ImageGlass, version 9",
+      "description": "ImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n\r\n🟠 Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
+      "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
+      "publishedDate": "2023/11/24 21:30:45"
     },
     "spider": {
-      "version": "8.10.9.27",
-      "title": "ImageGlass Kobe 8.10",
-      "description": "ImageGlass 8.10 is an important update to fix critical WEBP vulnerability (CVE-2023-4863).",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-8-10-86",
-      "publishedDate": "2023/09/26 17:45:05"
+      "version": "9.0.7.1125",
+      "title": "Introducing the new ImageGlass, version 9",
+      "description": "ImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n\r\n🟠 Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
+      "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
+      "publishedDate": "2023/11/24 21:30:45"
     }
   }
 }
