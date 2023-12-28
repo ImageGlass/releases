@@ -2,32 +2,32 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.0.8.1208",
-      "title": "ImageGlass 9.0.8.1208",
-      "description": "Addressed numerous bugs and issues in version 9.0.7.1125 for a more stable and reliable experience.",
+      "version": "9.0.9.1230",
+      "title": "Annoucing ImageGlass 9.0.9.1230",
+      "description": "Addressed numerous bugs and issues in version 9.0.8.1208 for a more stable and reliable experience.\r\n\r\nHappy New Year 2024! 🎉",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
-      "publishedDate": "2023/12/05 11:30:02"
+      "publishedDate": "2023/12/28 19:08:23"
     },
     "kobe": {
-      "version": "9.0.8.1208",
+      "version": "9.0.9.1230",
       "title": "Introducing ImageGlass 8.11 and the new ImageGlass, version 9",
       "description": "ImageGlass 8.11 is an QoL update to fix Save button function for Crop tool.\r\n\r\nImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
-      "publishedDate": "2023/12/05 11:30:02"
+      "publishedDate": "2023/12/28 19:08:23"
     },
     "moon": {
-      "version": "9.0.8.1208",
+      "version": "9.0.9.1230",
       "title": "Introducing ImageGlass 8.11 and the new ImageGlass, version 9",
       "description": "ImageGlass 8.11 is an QoL update to fix Save button function for Crop tool.\r\n\r\nImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
-      "publishedDate": "2023/12/05 11:30:02"
+      "publishedDate": "2023/12/28 19:08:23"
     },
     "spider": {
-      "version": "9.0.8.1208",
+      "version": "9.0.9.1230",
       "title": "Introducing ImageGlass 8.11 and the new ImageGlass, version 9",
       "description": "ImageGlass 8.11 is an QoL update to fix Save button function for Crop tool.\r\n\r\nImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
-      "publishedDate": "2023/12/05 11:30:02"
+      "publishedDate": "2023/12/28 19:08:23"
     }
   }
 }
