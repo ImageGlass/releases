@@ -3,7 +3,7 @@
   "releases": {
     "stable": {
       "version": "9.0.9.1230",
-      "title": "Annoucing ImageGlass 9.0.9.1230",
+      "title": "Announcing ImageGlass 9.0.9.1230",
       "description": "Addressed numerous bugs and issues in version 9.0.8.1208 for a more stable and reliable experience.\r\n\r\nHappy New Year 2024! 🎉",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
       "publishedDate": "2023/12/28 19:08:23"
