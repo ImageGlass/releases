@@ -4,28 +4,14 @@
     "stable": {
       "version": "9.0.10.201",
       "title": "Announcing ImageGlass 9.0.10.201",
-      "description": "Addressed numerous bugs and issues in version 9.0.9.1230 for a more stable and reliable experience.\r\n\r\nHappy Lunar New Year 2024! 🐉🐲🎉",
+      "description": "Addressed numerous bugs and issues in version 9.0.9.1230 for a more stable and reliable experience.",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
       "publishedDate": "2024/01/31 21:48:00"
     },
     "kobe": {
       "version": "9.0.10.201",
-      "title": "Introducing ImageGlass 8.11 and the new ImageGlass, version 9",
-      "description": "ImageGlass 8.11 is an QoL update to fix Save button function for Crop tool.\r\n\r\nImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
-      "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
-      "publishedDate": "2024/01/31 21:48:00"
-    },
-    "moon": {
-      "version": "9.0.10.201",
-      "title": "Introducing ImageGlass 8.11 and the new ImageGlass, version 9",
-      "description": "ImageGlass 8.11 is an QoL update to fix Save button function for Crop tool.\r\n\r\nImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
-      "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
-      "publishedDate": "2024/01/31 21:48:00"
-    },
-    "spider": {
-      "version": "9.0.10.201",
-      "title": "Introducing ImageGlass 8.11 and the new ImageGlass, version 9",
-      "description": "ImageGlass 8.11 is an QoL update to fix Save button function for Crop tool.\r\n\r\nImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
+      "title": "Announcing ImageGlass 9.0.10.201",
+      "description": "ImageGlass 9, a major update three years in the making, brings exciting features for an enhanced photo viewing experience.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
       "changelogUrl": "https://imageglass.org/news/introducing-the-new-imageglass-version-9-88",
       "publishedDate": "2024/01/31 21:48:00"
     }
