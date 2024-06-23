@@ -3,14 +3,14 @@
   "releases": {
     "stable": {
       "version": "9.1.6.14",
-      "title": "Announcing ImageGlass 9.1 - From The Merge Berlin",
-      "description": "<div><p class='mt-0'>A major update, supports for advanced color channel viewing, adds Lossless Compression tool, Startup  Boost mode, new image loading orders</p><p><img src='https://github.com/d2phap/ImageGlass/assets/3154213/4ce5ccc7-0964-4a8a-a6ab-71e49bd2f5bd' style='width: 100%;'></p><h2>Visit Us at The Merge Conference on June 14, 2024 ⭐</h2><div class='mb-3'><p class='mb-2'>ImageGlass is proud to be one of the open-source projects that will be exhibiting at <a href='https://merge.berlin' target='_blank' ref='noopener nofollow'>The Merge Conference</a> in Berlin, Germany. If you're attending, be sure to visit our booth and explore other amazing open-source projects!</p> <ul> <li>📅 Date &amp; Time: <strong>June 14, 2024 10:00 AM - 2:00 PM</strong></li> <li>🗺️ Venue: <a href='https://maps.app.goo.gl/gxRBujkh4xgMQ7HB7' target='_blank' ref='noopener nofollow'>Arena Berlin</a></li></ul></div></div>",
+      "title": "Announcing ImageGlass 9.1.6.14 - In Berlin",
+      "description": "A major update, supports for advanced color channel viewing, adds Lossless Compression tool, Startup Boost mode, new image loading orders.",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
       "publishedDate": "2024/06/10 21:21:00"
     },
     "kobe": {
       "version": "9.1.6.14",
-      "title": "Announcing ImageGlass 9.1 - From The Merge Berlin",
+      "title": "Announcing ImageGlass 9.1.6.14 - In Berlin",
       "description": "A major update, supports for advanced color channel viewing, adds Lossless Compression tool, Startup Boost mode, new image loading orders.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
       "publishedDate": "2024/06/10 21:21:00"
