@@ -11,7 +11,7 @@
     "kobe": {
       "version": "9.1.7.627",
       "title": "Announcing ImageGlass 9.1.7.627 - In Brussels",
-      "description": "[WARNING] Vulnerability Report:\r\n- Severity: Hight 7.5/10\r\n- Name: Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability\r\n- Affected versions: v8.12.4.30 or below\r\n\r\nImageGlass 8 is end of life, no public updates or patches released to address this. You may opt for the Paid Support Service for a fee, or upgrade to ImageGlass 9 (free).",
+      "description": "Vulnerability Report: CVE-2024-30105 (.NET Denial of Service Vulnerability)\r\n- Affected versions: v8.12.4.30 or below\r\n\r\nImageGlass 8 is end of life, no public updates or patches released to address this. You may opt for the Paid Support Service for a fee, or upgrade to ImageGlass 9 (free).",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
       "publishedDate": "2024/06/27 22:40:00"
     }
