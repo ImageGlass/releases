@@ -11,7 +11,7 @@
     "kobe": {
       "version": "9.1.7.627",
       "title": "Announcing ImageGlass 9.1.7.627 - In Brussels",
-      "description": "This release brings back ARM64 build, fixes some issues including ImageGlass could not run when user adds Inkscape system PATH.\r\n⚠️ Note: Some version 8 features ARE NOT available, please read the blog post before upgrading.",
+      "description": "[WARNING] Vulnerability Report:\r\n- Severity: Hight 7.5/10\r\n- Name: Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability\r\n- Affected versions: v8.12.4.30 or below\r\n\r\nImageGlass 8 is end of life, there is no public updates or patches released to address it. You may opt for the Paid Support Service for a fee, or upgrade to ImageGlass 9 (free).",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
       "publishedDate": "2024/06/27 22:40:00"
     }
