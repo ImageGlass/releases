@@ -2,18 +2,18 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.1.7.627",
-      "title": "Announcing ImageGlass 9.1.7.627 - In Brussels",
-      "description": "<div>This release brings back ARM64 build, fixes some issues including ImageGlass could not run when user adds Inkscape system PATH.\r\n\r\n⚠️ <b>WARNING: Vulnerability Report</b>\r\n- Severity: High (7.5/10)\r\n- Name: <a target='_blank' href='https://imageglass.org/news/vulnerability-report-for-imageGlass-8-9-cve-2024-30105-net-denial-of-service-92'>Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability</a>\r\n- Affected versions: ImageGlass 9 running on .NET 8.0.6 or below.</div>",
+      "version": "9.1.8.723",
+      "title": "Announcing ImageGlass 9.1.8.723",
+      "description": "<div>This update adds Delete menu in Slideshow mode, fixes some issues, including SVG file zooming, images overlapping, HEIC orientation.\r\n\r\n⚠️ <b>WARNING: Vulnerability Report</b>\r\n- Severity: High (7.5/10)\r\n- Name: <a target='_blank' href='https://imageglass.org/news/vulnerability-report-for-imageGlass-8-9-cve-2024-30105-net-denial-of-service-92'>Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability</a>\r\n- Affected versions: ImageGlass 9 running on .NET 8.0.6 or below.</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
-      "publishedDate": "2024/06/27 22:40:00"
+      "publishedDate": "2024/07/23 22:40:00"
     },
     "kobe": {
-      "version": "9.1.7.627",
-      "title": "Announcing ImageGlass 9.1.7.627 - In Brussels",
+      "version": "9.1.8.723",
+      "title": "Announcing ImageGlass 9.1.8.723",
       "description": "[WARNING] Vulnerability Report:\r\n- Severity: High (7.5/10)\r\n- Name: Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability\r\n- Affected versions: v8.12.4.30 or below\r\n\r\nImageGlass 8 is end of life, no public updates or patches released to address this. You may opt for the Paid Support Service for a fee, or upgrade to ImageGlass 9 (free).",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
-      "publishedDate": "2024/06/27 22:40:00"
+      "publishedDate": "2024/07/23 22:40:00"
     }
   }
 }
