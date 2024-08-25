@@ -4,7 +4,7 @@
     "stable": {
       "version": "9.1.8.723",
       "title": "Announcing ImageGlass 9.1.8.723",
-      "description": "<div>This update adds Delete menu in Slideshow mode, fixes some issues, including SVG file zooming, images overlapping, HEIC orientation.\r\n\r\n⚠️ <b>WARNING: Vulnerability Report</b>\r\n- Severity: High (7.5/10)\r\n- Name: <a target='_blank' href='https://imageglass.org/news/vulnerability-report-for-imageGlass-8-9-cve-2024-30105-net-denial-of-service-92'>Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability</a>\r\n- Affected versions: ImageGlass 9 running on .NET 8.0.6 or below.</div>",
+      "description": "<div>This update adds Delete menu in Slideshow mode, fixes some issues, including SVG file zooming, images overlapping, HEIC orientation.\r\n\r\n⚠️ <b>WARNING: Vulnerability Report</b>\r\n- Severity: High (7.5/10)\r\n- Name: <a target=\"_blank\" href=\"https://imageglass.org/news/vulnerability-report-for-imageGlass-8-9-cve-2024-30105-net-denial-of-service-92\">Microsoft Security Advisory CVE-2024-30105 | .NET Denial of Service Vulnerability</a>\r\n- Affected versions: ImageGlass 9 running on .NET 8.0.6 or below.</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-1-from-the-merge-berlin-91",
       "publishedDate": "2024/07/23 22:40:00"
     },
