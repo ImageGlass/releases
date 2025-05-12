@@ -2,18 +2,18 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.2.0.1208",
-      "title": "Announcing ImageGlass 9.2.0.1208",
-      "description": "<div>This update introduces Resize Image tool, improves Crop Image tool with pixel-level precision, makes WebView2 Runtime optional and supports for larger image dimensions.</div>",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-2-maroon-4-93",
-      "publishedDate": "2024/12/07 21:31:33"
+      "version": "9.3.0.514",
+      "title": "Announcing ImageGlass 9.3 – 15 Years of Open, Evolving Image Viewing",
+      "description": "<div>This release marks the 15th anniversary of ImageGlass, introducing full support for File Explorer sort order, a self-contained deployment that eliminates the need for the .NET Desktop Runtime, and new features including Live Photo (JPEG) playback and color inversion.</div>",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-3-15-years-of-open-evolving-image-viewing-94",
+      "publishedDate": "2025/05/12 00:23:00"
     },
     "kobe": {
-      "version": "9.2.0.1208",
-      "title": "Announcing ImageGlass 9.2.0.1208",
-      "description": "<div>This update introduces Resize Image tool, improves Crop Image tool with pixel-level precision, makes WebView2 Runtime optional and supports for larger image dimensions.</div>",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-2-maroon-4-93",
-      "publishedDate": "2024/12/07 21:31:33"
+      "version": "9.3.0.514",
+      "title": "Announcing ImageGlass 9.3 – 15 Years of Open, Evolving Image Viewing",
+      "description": "<div>This release marks the 15th anniversary of ImageGlass, introducing full support for File Explorer sort order, a self-contained deployment that eliminates the need for the .NET Desktop Runtime, and new features including Live Photo (JPEG) playback and color inversion.</div>",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-3-15-years-of-open-evolving-image-viewing-94",
+      "publishedDate": "2025/05/12 00:23:00"
     }
   }
 }
