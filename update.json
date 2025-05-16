@@ -2,18 +2,18 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.3.0.514",
+      "version": "9.3.1.518",
       "title": "Announcing ImageGlass 9.3 – 15 Years of Open, Evolving Image Viewing",
       "description": "<div>This release marks the 15th anniversary of ImageGlass, introducing full support for File Explorer sort order, a self-contained deployment that eliminates the need for the .NET Desktop Runtime, and new features including Live Photo (JPEG) playback and color inversion.</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-3-15-years-of-open-evolving-image-viewing-94",
-      "publishedDate": "2025/05/12 00:23:00"
+      "publishedDate": "2025/05/16 22:38:00"
     },
     "kobe": {
-      "version": "9.3.0.514",
+      "version": "9.3.1.518",
       "title": "Announcing ImageGlass 9.3 – 15 Years of Open, Evolving Image Viewing",
       "description": "<div>This release marks the 15th anniversary of ImageGlass, introducing full support for File Explorer sort order, a self-contained deployment that eliminates the need for the .NET Desktop Runtime, and new features including Live Photo (JPEG) playback and color inversion.</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-3-15-years-of-open-evolving-image-viewing-94",
-      "publishedDate": "2025/05/12 00:23:00"
+      "publishedDate": "2025/05/16 22:38:00"
     }
   }
 }
