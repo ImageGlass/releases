@@ -8,6 +8,22 @@
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-4-97",
       "publishedDate": "2026/01/02 11:56:00"
     },
+    "stable": {
+      "version": "99.0.0.1",
+      "title": "Test Release",
+      "description": "Testing update provider",
+      "changelogUrl": "https://imageglass.org/changelog/99",
+      "publishedDate": "2026-03-12",
+      "artifacts": {
+        "win-x64": {
+          "url": "https://imageglass.org/downloads/test.zip",
+          "size": 1024,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "signature": ""
+        }
+      },
+      "manifestSignature": ""
+    },
     "kobe": {
       "version": "9.4.1.15",
       "title": "Announcing ImageGlass 9.4.1",
