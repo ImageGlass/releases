@@ -8,7 +8,7 @@
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-4-97",
       "publishedDate": "2026/01/02 11:56:00"
     },
-    "stable": {
+    "beta": {
       "version": "99.0.0.1",
       "title": "Test Release",
       "description": "Testing update provider",
@@ -16,9 +16,9 @@
       "publishedDate": "2026-03-12",
       "artifacts": {
         "win-x64": {
-          "url": "https://imageglass.org/downloads/test.zip",
-          "size": 1024,
-          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.3.2.912-beta/ImageGlass_9.3.2.912-beta_x64.zip",
+          "size": 105906176,
+          "sha256": "sha256:322d4f874ae1414dcb89db4af5d5ac60c379467be30a67f530d881db57d76d6f",
           "signature": ""
         }
       },
