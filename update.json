@@ -9,20 +9,11 @@
       "publishedDate": "2026/01/02 11:56:00"
     },
     "beta": {
-      "version": "99.0.0.1",
-      "title": "Test Release",
-      "description": "Testing update provider",
-      "changelogUrl": "https://imageglass.org/changelog/99",
-      "publishedDate": "2026-03-12",
-      "artifacts": {
-        "win-x64": {
-          "url": "https://github.com/d2phap/ImageGlass/releases/download/9.3.2.912-beta/ImageGlass_9.3.2.912-beta_x64.zip",
-          "size": 105906176,
-          "sha256": "sha256:322d4f874ae1414dcb89db4af5d5ac60c379467be30a67f530d881db57d76d6f",
-          "signature": ""
-        }
-      },
-      "manifestSignature": ""
+      "version": "10.0.0.314",
+      "title": "ImageGlass 10 Beta 1 - Cross-platform Support!",
+      "description": "ImageGlass 10 Beta 1 is now available. This release marks a major milestone: a modern foundation, a performance-first direction, and a clear path forward for the project.",
+      "changelogUrl": "https://imageglass.org/news/imageglass-10-beta-1-is-here-99",
+      "publishedDate": "2026-03-14"
     },
     "kobe": {
       "version": "9.4.1.15",
