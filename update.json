@@ -4,9 +4,9 @@
     "stable": {
       "version": "9.4.1.15",
       "title": "Announcing ImageGlass 9.4.1",
-      "description": "<div>This update brings fresh features, performance upgrades, and important fixes.</div>",
+      "description": "<div>This update brings fresh features, performance upgrades, and important fixes.<br/>New: ImageGlass 10 Beta 1 is now available</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-4-97",
-      "publishedDate": "2026/01/02 11:56:00"
+      "publishedDate": "2026-01-02 11:56:00"
     },
     "beta": {
       "version": "10.0.0.314",
