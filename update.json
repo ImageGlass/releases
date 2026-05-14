@@ -2,11 +2,11 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.4.1.15",
-      "title": "Announcing ImageGlass 9.4.1",
-      "description": "<div>This update brings fresh features, performance upgrades, and important fixes.<br/>🟢 New: ImageGlass 10 Beta 1 is now available</div>",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-4-97",
-      "publishedDate": "2026/01/02 11:56:00"
+      "version": "9.5.0.515",
+      "title": "Announcing ImageGlass 9.5",
+      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🟢 New: ImageGlass 10 Beta 1 is now available</div>",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-5-100",
+      "publishedDate": "2026/05/14 11:50:00"
     },
     "beta": {
       "version": "10.0.0.314",
@@ -16,11 +16,11 @@
       "publishedDate": "2026/03/14 00:00:00"
     },
     "kobe": {
-      "version": "9.4.1.15",
-      "title": "Announcing ImageGlass 9.4.1",
-      "description": "<div>This update brings fresh features, performance upgrades, and important fixes.</div>",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-4-97",
-      "publishedDate": "2025/01/02 11:56:00"
+      "version": "9.5.0.515",
+      "title": "Announcing ImageGlass 9.5",
+      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🟢 New: ImageGlass 10 Beta 1 is now available</div>",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-5-100",
+      "publishedDate": "2026/05/14 11:50:00"
     }
   }
 }
