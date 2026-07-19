@@ -4,21 +4,21 @@
     "stable": {
       "version": "9.5.0.515",
       "title": "Announcing ImageGlass 9.5",
-      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🌗 New: ImageGlass 10 Beta 2 is now available</div>",
+      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🌗 New: ImageGlass 10 RC is now available</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-5-100",
       "publishedDate": "2026/05/14 11:50:00"
     },
     "beta": {
       "version": "10.0.2.66",
-      "title": "ImageGlass 10 Beta 2",
-      "description": "ImageGlass 10 Beta 2 is now available. This release introduces native HDR and vector rendering capabilities, a brand-new plugin SDK, brings back essential features from version 9, and significantly improves stability across Windows, macOS, and Linux.",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-10-beta-2-101",
-      "publishedDate": "2026/06/06 00:00:00"
+      "title": "Announcing ImageGlass 10 Release Candidate",
+      "description": "This version introduces a refreshed Fluent 2 design, a comprehensive built-in Settings GUI, a brand-new Quick Setup experience, and critical security hardening for the plugin ecosystem.",
+      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-10-rc-102",
+      "publishedDate": "2026/07/19 00:00:00"
     },
     "kobe": {
       "version": "9.5.0.515",
       "title": "Announcing ImageGlass 9.5",
-      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🌗 New: ImageGlass 10 Beta 2 is now available</div>",
+      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🌗 New: ImageGlass 10 RC is now available</div>",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-5-100",
       "publishedDate": "2026/05/14 11:50:00"
     }
