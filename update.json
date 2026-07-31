@@ -2,11 +2,11 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.5.0.515",
-      "title": "Announcing ImageGlass 9.5",
-      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🌗 New: ImageGlass 10 RC is now available</div>",
+      "version": "9.6.0.801",
+      "title": "Announcing ImageGlass 9.6",
+      "description": "Version 9 is in maintenance mode, so this is a focused stability update: an updated imaging engine, a higher default cache limit for large photos, and fixes for a few reported format and tool issues.\r\n\r\n🌗 New: ImageGlass 10 RC is now available",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-5-100",
-      "publishedDate": "2026/05/14 11:50:00"
+      "publishedDate": "2026/07/31 11:50:00"
     },
     "beta": {
       "version": "10.0.2.66",
@@ -16,11 +16,11 @@
       "publishedDate": "2026/07/19 00:00:00"
     },
     "kobe": {
-      "version": "9.5.0.515",
-      "title": "Announcing ImageGlass 9.5",
-      "description": "<div>This is a minor update that includes a few community-requested features and bugfixes.<br/>🌗 New: ImageGlass 10 RC is now available</div>",
+      "version": "9.6.0.801",
+      "title": "Announcing ImageGlass 9.6",
+      "description": "Version 9 is in maintenance mode, so this is a focused stability update: an updated imaging engine, a higher default cache limit for large photos, and fixes for a few reported format and tool issues.\r\n\r\n🌗 New: ImageGlass 10 RC is now available",
       "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-5-100",
-      "publishedDate": "2026/05/14 11:50:00"
+      "publishedDate": "2026/07/31 11:50:00"
     }
   }
 }
