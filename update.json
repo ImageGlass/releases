@@ -2,25 +2,25 @@
   "apiVersion": 1.1,
   "releases": {
     "stable": {
-      "version": "9.6.1.807",
-      "title": "Announcing ImageGlass 9.6",
-      "description": "Version 9 is in maintenance mode, so this is a focused stability update.\r\n\r\n🌗 New: ImageGlass 10 RC is now available",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-6-104",
-      "publishedDate": "2026/08/06 00:00:00"
+      "version": "10.0.4.819",
+      "title": "ImageGlass 10: Rebuilt for Speed and Cross-Platform Support",
+      "description": "This release marks a massive milestone: a complete rewrite from the ground up. ImageGlass 10 is rebuilt on .NET and Avalonia, bringing a single, unified codebase natively to Windows, macOS, and Linux.",
+      "changelogUrl": "https://imageglass.org/news/introducing-imageglass-10-rebuilt-for-speed-and-cross-platform-support-107",
+      "publishedDate": "2026/08/21 00:00:00"
     },
     "beta": {
-      "version": "10.0.2.66",
-      "title": "Announcing ImageGlass 10 Release Candidate",
-      "description": "This version introduces a refreshed Fluent 2 design, a comprehensive built-in Settings GUI, a brand-new Quick Setup experience, and critical security hardening for the plugin ecosystem.",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-10-rc-102",
-      "publishedDate": "2026/07/19 00:00:00"
+      "version": "10.0.4.819",
+      "title": "ImageGlass 10: Rebuilt for Speed and Cross-Platform Support",
+      "description": "This release marks a massive milestone: a complete rewrite from the ground up. ImageGlass 10 is rebuilt on .NET and Avalonia, bringing a single, unified codebase natively to Windows, macOS, and Linux.",
+      "changelogUrl": "https://imageglass.org/news/introducing-imageglass-10-rebuilt-for-speed-and-cross-platform-support-107",
+      "publishedDate": "2026/08/21 00:00:00"
     },
     "kobe": {
-      "version": "9.6.1.807",
-      "title": "Announcing ImageGlass 9.6",
-      "description": "Version 9 is in maintenance mode, so this is a focused stability update.\r\n\r\n🌗 New: ImageGlass 10 RC is now available",
-      "changelogUrl": "https://imageglass.org/news/announcing-imageglass-9-6-104",
-      "publishedDate": "2026/08/06 00:00:00"
+      "version": "10.0.4.819",
+      "title": "ImageGlass 10: Rebuilt for Speed and Cross-Platform Support",
+      "description": "This release marks a massive milestone: a complete rewrite from the ground up. ImageGlass 10 is rebuilt on .NET and Avalonia, bringing a single, unified codebase natively to Windows, macOS, and Linux.",
+      "changelogUrl": "https://imageglass.org/news/introducing-imageglass-10-rebuilt-for-speed-and-cross-platform-support-107",
+      "publishedDate": "2026/08/21 00:00:00"
     }
   }
 }
